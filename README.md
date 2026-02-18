@@ -5,7 +5,6 @@ https://t.me/NutriAssi_bot
 
 Скриншот 1 [<img width="410" height="543" alt="image" src="https://github.com/user-attachments/assets/4a327f62-81a8-4cf7-91b9-f1b32cee2fde" />](https://github.com/koral0472/AI-Assistant/blob/main/1.png?raw=true)
 
-Скриншот 2 [https://github.com/koral0472/AI-Assistant/blob/main/1.png?raw=true](https://github.com/koral0472/AI-Assistant/blob/main/2.png?raw=true)
 ## Описание проекта
 
 Проект представляет собой интеллектуального помощника (чат-бота) для автоматизации процесса записи клиентов на консультации к нутрициологу. Бот способен вести осмысленный диалог, отвечать на вопросы по базе знаний и управлять расписанием встреч через интеграцию с Google Календарем.
