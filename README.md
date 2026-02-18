@@ -1,6 +1,8 @@
 # ИИ-помощник нутрициолога для записи на консультацию
 ссылка на телеграмм
 https://t.me/NutriAssi_bot
+[<img width="410" height="543" alt="image" src="https://github.com/user-attachments/assets/4a327f62-81a8-4cf7-91b9-f1b32cee2fde" />](https://github.com/koral0472/AI-Assistant/blob/main/1.png?raw=true)
+
 
 ## Описание проекта
 
